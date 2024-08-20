@@ -36,4 +36,5 @@ CI
     <img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white">
     <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD">
 </p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstjs2267)](https://solved.ac/alstjs2267/)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={alstjs2267})](https://solved.ac/{alstjs2267})
